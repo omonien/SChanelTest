@@ -1,0 +1,3 @@
+[submodule "PaulsDelphiLib"]
+	path = PaulsDelphiLib
+	url = https://github.com/tothpaul/Delphi.git
